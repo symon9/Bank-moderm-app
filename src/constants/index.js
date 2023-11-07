@@ -117,7 +117,7 @@ export const footerLinks = [
       { name: "Air Jordan 1", link: "/" },
       { name: "Air Force 2", link: "/" },
       { name: "Nike Waffle", link: "/" },
-      { name: "Nike Cortez", link: "/" }
+      { name: "Nike Cortez", link: "/" },
     ],
   },
   {
@@ -127,29 +127,29 @@ export const footerLinks = [
       { name: "FAQs", link: "/" },
       { name: "How it works", link: "/" },
       { name: "Privacy policy", link: "/" },
-      { name: "Payment policy", link: "/" }
+      { name: "Payment policy", link: "/" },
     ],
   },
   {
     title: "Get in touch",
     links: [
       { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-      { name: "+2349076813901", link: "tel:+2349076813901" }
+      { name: "+2349076813901", link: "tel:+2349076813901" },
     ],
   },
 ];
 
 export const socialMedia = [
-    {
-        src: facebook,
-        alt: 'Facebook Logo'
-    },
-    {
-        src: twitter,
-        alt: 'Twitter Logo'
-    },
-    {
-        src: instagram,
-        alt: 'Instagram Logo'
-    },
-]
+  {
+    src: facebook,
+    alt: "Facebook Logo",
+  },
+  {
+    src: twitter,
+    alt: "Twitter Logo",
+  },
+  {
+    src: instagram,
+    alt: "Instagram Logo",
+  },
+];
