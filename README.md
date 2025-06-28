@@ -59,13 +59,6 @@ We collaborate with leading organizations to ensure the best service:
 
 ---
 
-## 📲 Download Our App  
-Find us on:  
-- [Apple Store](https://apple-store-url.com) *(Replace with actual URL)*  
-- [Google Play](https://google-store-url.com) *(Replace with actual URL)*  
-
----
-
 ## 📚 Useful Links  
 - [How it Works](#)  
 - [Create an Account](#)  
