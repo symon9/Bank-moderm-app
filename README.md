@@ -59,16 +59,6 @@ We collaborate with leading organizations to ensure the best service:
 
 ---
 
-## 📚 Useful Links  
-- [How it Works](#)  
-- [Create an Account](#)  
-- [Explore Features](#)  
-- [Terms & Services](#)  
-- [Help Center](#)  
- 
-
----
-
 ## 📄 License  
 © 2023 Hoobank. All rights reserved.  
 
